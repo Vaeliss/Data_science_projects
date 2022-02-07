@@ -1,4 +1,4 @@
-Project carried out for the exam Cognition and Computation (21/22) in Unipd.
+Project carried out for the exam Cognition and Computation (21/22).
 
 The main objective was to impement simulations to explore computational models of visual learning concepts.
 VGG-16 pretrained on ImageNet was hence explored using several visualization techniques.
