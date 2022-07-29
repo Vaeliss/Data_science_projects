@@ -5,12 +5,12 @@ VGG-16 pretrained on ImageNet was hence explored using several visualization tec
 
 Some examples are DeepDream...
 
-![Deep-woof][/images/deep_dreams.png]
+![Deep-woof](/images/deep_dreams.png)
 
 ...Grad-CAM... 
 
-![Gondolas and animals][/images/grad_cam.png]
+![Gondolas and animals](/images/grad_cam.png)
 
 ...and visualizations of activations at different levels of depth.
 
-![Activations][/images/activations_viz.png]
+![Activations](/images/activations_viz.png)
