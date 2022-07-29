@@ -5,5 +5,4 @@ Final results demonstrate that the methods applied, outperform past winners of t
 
 A diagram of the methods considered:
 
-![Workflow][images/methods.jpg]
-
+![Workflow](images/methods.jpg)
