@@ -9,13 +9,13 @@ Probabilistic reasoning is particularly useful in the early stages of the game i
 
 Some performance metrics of the agent:
 
-| Grid size | # mines | mines density | win % | Mean time per game |
-| :-------: | :-----: | :-----------: | :---: | :----------------: |
-| 4x4       | 5       | 0.3125        | 52%   | 0.15s              |
-| 6x6       | 6       | 0.1667        | 72%   | 0.03s              |
-| 8x8       | 10      | 0.1563        | 82%   | 0.36s              |
-| 16x16     | 40      | 0.1563        | 64%   | 0.95s              |
-| 22x22     | 99      | 0.2045        | 31%   | 6 s                |
+| Grid size            | # mines | mines density | win % | Mean time per game |
+| :------------------: | :-----: | :-----------: | :---: | :----------------: |
+| 4x4                  | 5       | 0.3125        | 52%   | 0.15s              |
+| 6x6                  | 6       | 0.1667        | 72%   | 0.03s              |
+| 8x8 (Beginner)       | 10      | 0.1563        | 82%   | 0.36s              |
+| 16x16 (Intermediate) | 40      | 0.1563        | 64%   | 0.95s              |
+| 22x22 (Expert-like)  | 99      | 0.2045        | 31%   | 6 s                |
 
 
 Note that the 8x8 game is the classic beginner game.
